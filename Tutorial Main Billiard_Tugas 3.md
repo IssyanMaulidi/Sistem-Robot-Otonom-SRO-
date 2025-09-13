@@ -23,3 +23,6 @@ Repository ini dibuat untuk menyimpan dan mendokumentasikan kode Python yang dik
 - Apabila anda sudah menang/kalah dan ingin bermain lagi, anda bisa saja mengulangi permainan dengan mengetik "reset", maka permainan akan bermulai dari awal.
 - Selamat mencobaa!😊
 
+post linkedin: https://www.linkedin.com/posts/achmadrafiissyanmaulidi_billiard-engineering-python-activity-7372701547706826753-kKDF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbPM_kBt1P8lYlXBiqtEyQ_niOCTBIEi8A
+
+
