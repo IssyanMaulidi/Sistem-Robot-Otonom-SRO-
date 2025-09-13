@@ -1,8 +1,9 @@
 # Sistem-Robot-Otonom-SRO-
 Repository ini dibuat untuk menyimpan dan mendokumentasikan kode Python yang dikembangkan selama proses pembelajaran bersama Bapak M.Q. Zaman, meliputi tugas, dan eksperimen
 
-Tugas 3[][]|
+- Tugas 3[][]|
            |(<0_0<): Tutorial memainkan Billiard paad Tugas 3_Issyan Maulidi_Billiard:
+
 -Sebelum bermain Billiard di Copelia.sim via Python, pastikan anda telah melakukan: Open file location COPELIA ->  Programming -> Legacy remote API -> legacyRemote API -> remoteAPIBindings -> python -> Copy Patse ALL ke file yang diinginkan.
 - Klik strat pada Copelia.sim yang telah berisi: Meja billiard, 6 buah bola (5 bola warna warni dan 1 bola putih), dan 1 buah tongkat pemukul bola putih.
 - Jalankan prgoram Python yang bernama "Tugas 3_Issyan Maulidi_Billiard" di perangkat anda: dapat melalui VSCode, pycharm, dan lainnya sesuai preferensi masing-masing.
@@ -22,5 +23,3 @@ Tugas 3[][]|
 - Apabila anda sudah menang/kalah dan ingin bermain lagi, anda bisa saja mengulangi permainan dengan mengetik "reset", maka permainan akan bermulai dari awal.
 - Selamat mencobaa!😊
 
-Tugas 3[][]|
-           |(<0_0<): :
